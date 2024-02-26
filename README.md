@@ -1,9 +1,9 @@
 # HR Dashboard
 
-Project Overview:
+- Project Overview:
 This project focuses on the development of a comprehensive HR Analytics Dashboard using Power BI. The dashboard provides insights into various aspects of human resources management, performance metrics, and departmental analysis. 
 
-Dataset:
+- Dataset:
 The dataset used for this project comprises HR-related data, including employee information, performance indicators, and departmental details. It may include fields such as employee ID, name, age, gender, department, salary, performance ratings, and other relevant metrics. The dataset serves as the foundation for generating insights and visualizations within the Power BI dashboard.
 
 - Project Structure
